@@ -1,0 +1,7 @@
+<suite name="Suite One" >
+ <test name="Test One" >
+  <classes>
+   <class name="TestProject_mvn_git.TestProject_Mvn_Git.openFirefox" />
+  </classes>
+ </test>
+</suite>
