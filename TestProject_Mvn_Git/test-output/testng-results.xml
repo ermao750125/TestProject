@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="18049" started-at="2018-11-05T03:48:56Z" finished-at="2018-11-05T03:49:14Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="18049" started-at="2018-11-05T03:48:56Z" finished-at="2018-11-05T03:49:14Z">
+      <class name="TestProject_mvn_git.TestProject_Mvn_Git.openFirefox">
+        <test-method status="PASS" signature="openbrowser()[pri:0, instance:TestProject_mvn_git.TestProject_Mvn_Git.openFirefox@27efef64]" name="openbrowser" is-config="true" duration-ms="16230" started-at="2018-11-05T03:48:56Z" finished-at="2018-11-05T03:49:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openbrowser -->
+        <test-method status="PASS" signature="testmethodone()[pri:0, instance:TestProject_mvn_git.TestProject_Mvn_Git.openFirefox@27efef64]" name="testmethodone" duration-ms="22" started-at="2018-11-05T03:49:12Z" finished-at="2018-11-05T03:49:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testmethodone -->
+        <test-method status="PASS" signature="closebrowser()[pri:0, instance:TestProject_mvn_git.TestProject_Mvn_Git.openFirefox@27efef64]" name="closebrowser" is-config="true" duration-ms="1673" started-at="2018-11-05T03:49:12Z" finished-at="2018-11-05T03:49:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+      </class> <!-- TestProject_mvn_git.TestProject_Mvn_Git.openFirefox -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
